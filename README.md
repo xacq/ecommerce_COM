@@ -2,12 +2,6 @@
 
 A part of #flutter100daysofcode. Let's create a beautiful and animated e-commerce UI with Flutter.
 
-[Watch it on Youtube](https://youtu.be/_10i7_xsthM)
-
-
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
-
 <br>
 
 ## Development Setup
@@ -23,7 +17,4 @@ flutter run
 
 ## Links
 
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
+* [Website](https://greenpc.dev)
