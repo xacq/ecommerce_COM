@@ -1,7 +1,5 @@
 ## Flutter e-commerce Application UI Design and Animation
 
-A part of #flutter100daysofcode. Let's create a beautiful and animated e-commerce UI with Flutter.
-
 <br>
 
 ## Development Setup
